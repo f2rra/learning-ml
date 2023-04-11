@@ -1,3 +1,3 @@
 # Belajar Ngoding (Machine Learning)
 
-Dari remote
+Dari remote untuk lokal
