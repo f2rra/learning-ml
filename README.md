@@ -1,4 +1,3 @@
-# Belajar Ngoding (Machine Learning)
+# Belajar Ngoding (Basic Tools for Machine Learning)
 
-Dari lokal untuk remote
-Dari remote untuk lokal
+- Numpy
