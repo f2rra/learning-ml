@@ -1,4 +1,4 @@
 # Belajar Ngoding (Basic Tools for Machine Learning)
 
-- Numpy
+- Numpy v.23.1.1
 - Jupyter Notebook
