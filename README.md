@@ -2,3 +2,5 @@
 
 - Numpy
 - Jupyter Notebook
+- Tensorflow
+- Matplotlib
